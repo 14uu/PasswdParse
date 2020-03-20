@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PasswdParse</string>
+    <string name="hint">a senha é \"android\"</string>
+    <string name="ButtonConfirmText">Confirmar</string>
+    <string name="on_start">Você tem %1$d tentativas</string>
+    <string name="on_approval">Senha aprovada</string>
+    <string name="on_fail">Senha falha, restam %1$d tentativas</string>
+    <string name="on_maxTriesReached">Tentativas esgotadas</string>
+</resources>
